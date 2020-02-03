@@ -1,0 +1,6 @@
+D:\Produktif\C#\Segitiga Pascal\Segitiga Pascal\bin\Debug\Segitiga Pascal.exe.config
+D:\Produktif\C#\Segitiga Pascal\Segitiga Pascal\bin\Debug\Segitiga Pascal.exe
+D:\Produktif\C#\Segitiga Pascal\Segitiga Pascal\bin\Debug\Segitiga Pascal.pdb
+D:\Produktif\C#\Segitiga Pascal\Segitiga Pascal\obj\Debug\Segitiga Pascal.csprojResolveAssemblyReference.cache
+D:\Produktif\C#\Segitiga Pascal\Segitiga Pascal\obj\Debug\Segitiga Pascal.exe
+D:\Produktif\C#\Segitiga Pascal\Segitiga Pascal\obj\Debug\Segitiga Pascal.pdb
